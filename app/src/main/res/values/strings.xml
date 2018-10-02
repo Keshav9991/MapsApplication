@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">MapsApplication</string>
     <string name="title_activity_maps">Map</string>
+    <string name="option_get_place">For you ( ˘ ³˘)♥</string>
+    <string name="default_info_title">¯\\_(ツ)_/¯</string>
+    <string name="default_info_snippet">¯\\_(ツ)_/¯¯\\_(ツ)_/¯¯\\_(ツ)_/¯</string>
+    <string name="pick_place">Choose a place</string>
 </resources>
